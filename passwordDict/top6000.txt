@@ -16,6 +16,7 @@ asdfghjkl
 1q2w3e4r
 0000000000
 123456789
+admin@123
 12345678
 11111111
 dearbook
@@ -5998,3 +5999,7 @@ ffffffff
 12345679
 123456aaa
 buzhidao
+weblogic
+weblogic123
+11111111
+weblogic123456
